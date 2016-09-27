@@ -1,7 +1,5 @@
 # Crosswalk Project for iOS
 
-[![Build Status](https://travis-ci.org/crosswalk-project/crosswalk-ios.svg?branch=master)](https://travis-ci.org/crosswalk-project/crosswalk-ios)
-
 ## Introduction
 
 Crosswalk Project for iOS is a sub-project of [Crosswalk](https://crosswalk-project.org/), it aims to provide a web runtime to develop sophisticated iOS native or hybrid applications.
